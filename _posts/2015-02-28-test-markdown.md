@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Instacart Graph
+subtitle: Graph of the Latest Most Popular Instacart Products
+gh-repo: jimking100
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
